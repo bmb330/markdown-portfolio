@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+#### Social Media
+- [GitHub](https://github.com/bmb330)
+- [FaceBook](https://facebook.com/bmb330)
+- [Twitter](https://twitter.com/bmb330)
